@@ -1,4 +1,4 @@
 # Example
 This is my first Git Repository
 <br>
-Author - Vibha Narayan
+Author - Vibha Narayan(IITK)
